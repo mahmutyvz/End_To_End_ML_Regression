@@ -3,8 +3,4 @@ myenv/*
 catboost_info
 .ipynb_checkpoints
 __pycache__/
-models/CatBoostRegressor/*
-models/LGBMRegressor/*
-models/XGBRegressor/*
-
-
+models/*
