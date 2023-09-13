@@ -7,6 +7,7 @@ regression/
 │  ├─ external/
 │  ├─ preprocessed/
 │  ├─ raw/
+├─ images/
 ├─ models/
 │  ├─ CatBoostRegressor/
 │  ├─ LGBMRegressor/
@@ -22,18 +23,20 @@ regression/
 ├─ README.md
 ```
 
+The root variable in paths.py must be changed to the absolute path of the project.
+
 ### Install the required dependencies.
 
 ```shell
 pip install -r requirements.txt
 ```
-The root variable in paths.py must be changed to the absolute path of the project.
 
 
 ### Running the Application
 
-You can directly run the application, make train and predictions. 
+You can directly run the application, make training and predictions. 
 
 ```bash
-streamlit run server.py
+streamlit run app.py
 ```  
+
