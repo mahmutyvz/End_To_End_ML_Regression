@@ -1,6 +1,6 @@
 myenv/*
 .idea/
 catboost_info
-*.gz
+.gz
 .ipynb_checkpoints
 __pycache__/
