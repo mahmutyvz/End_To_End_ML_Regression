@@ -1,1 +1,2 @@
-notebook/** linguist-vendored
+*.ipynb linguist-detectable=true
+*.ipynb linguist-language=Python
