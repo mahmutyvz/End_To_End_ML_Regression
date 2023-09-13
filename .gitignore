@@ -1,7 +1,10 @@
 myenv/*
 .idea/
 catboost_info
-*.gz
 .ipynb_checkpoints
 __pycache__/
+models/CatBoostRegressor/*
+models/LGBMRegressor/*
+models/XGBRegressor/*
+
 
