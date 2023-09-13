@@ -5,3 +5,4 @@ catboost_info
 *.gz
 .ipynb_checkpoints
 __pycache__/
+.gz
