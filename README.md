@@ -19,6 +19,7 @@ regression/
 │  ├─ models/
 │  ├─ visualization/
 ├─ .gitignore
+├─ .gitattributes
 ├─ requirements.txt
 ├─ README.md
 ```
